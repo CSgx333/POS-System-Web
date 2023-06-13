@@ -1,8 +1,8 @@
 
 # POS System Web
-Using Java , JSP, HTML and CSS language to develop, Use Mysql Workbench as a Database. It consists of a Selling System, CRUD System, Product and Stock, Manage Order.
+Using Java , JSP and CSS language to develop, Use Mysql Workbench as a Database. It consists of a Selling System, CRUD System, Product and Stock, Manage Order.
 <p align="center">
-  <img src="src/Image/Program/pos.png">
+  <img src="web/assets/imgs/pos.png">
 <p/>
 
 # Screens it contains
